@@ -6,7 +6,7 @@ Final project for "Algorithms and Principles of Computer Science" course at Poli
 
 The program is loosely inspired by the game Wordle.
 
-Final Grade: 30/30 Cum Laude
+Final Grade: 30/30L
 
 Academic Year: 2021-2022
 
