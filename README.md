@@ -1,6 +1,6 @@
 # Progetto-API-2022
 
-Progetto Algoritmi e Principi di Informatica: WordChecker
+Progetto di "Algoritmi e principi di informatica": WordChecker
 
 Final project for "Algorithms and Principles of Computer Science" course at Politecnico di Milano
 
